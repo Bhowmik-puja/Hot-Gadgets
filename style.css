@@ -1,0 +1,15 @@
+.carousel-indicators .active{
+    background-color:#FF9C35;
+}
+
+.carousel-item{
+   padding: 20px 20px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
