@@ -5,7 +5,9 @@
 .container{
     margin-bottom: 50px;
 }
-
+.main{
+    margin-bottom: 0px;
+}
 .carousel-item{
    padding: 20px 20px;
 }
